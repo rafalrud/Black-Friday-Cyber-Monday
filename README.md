@@ -4,7 +4,7 @@ Zbiór promocji z okazji Black Friday / Cyber Monday 2024 z zakresu sieci komput
 # Chcesz coś dodać?
 Stwórz [pull request](https://github.com/rafalrud/Black-Friday-Cyber-Monday/pulls).
 
-#Promocje
+# Promocje
 * [InnaSiec.pl](https://innasiec.pl/newsletter/) - Newsletter Premium na rok z rabatem 100zł z kodem `BF100` #autopromocja
 *  [Eve-ng.net](https://www.eve-ng.net/) - Wirtualne laboratorium zniżka 25% na plan 18 miesięczny, żniżka ważna od 27.11
 * [Ebookpoint.pl](https://ebookpoint.pl/promocja/2za1/33/informatyka) - Wybrane pozycje w promocji 2 za 1 lub z rabatem 50%
