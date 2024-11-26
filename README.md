@@ -1,4 +1,4 @@
-# Black-Friday-Cyber-Monday
+# Black Friday / Cyber Monday
 Zbiór promocji z okazji Black Friday / Cyber Monday 2024 z zakresu sieci komputerowych i automatyzacji
 
 # Chcesz coś dodać?
@@ -16,5 +16,10 @@ Stwórz [pull request](https://github.com/rafalrud/Black-Friday-Cyber-Monday/pul
 * [Pluralsight.com](https://www.pluralsight.com/pricing/skills) - Subskrypcja na dostęp do pełnego katalogu szkoleń z rabatem 50%
 * [PacketCoders.io](https://www.packetcoders.io/membership-gbp/) - Szkolenia z programowania sieci komputerowych taniej o 50% z kodem `BLACKFRI50`
 * [Oreilly.com](https://learning.oreilly.com/signup/?code=CYBERAB24) Roczny abonament z kodem `CYBERAB24` 40% taniej
+* [Cisco U](https://u.cisco.com/plans) - Platforma edukacyjna Cisco U z rabatem 40% na plan Essentials
+* [Cisco U](https://www.cisco.com/site/us/en/learn/training-certifications/learning-deals.html#containergrid-f74792e7fe) - Ścieżka Multicloud 40% taniej (szkolenia SCAZT, ENCC, ENNA)
+* [Cisco.com](https://learningnetworkstore.cisco.com/promotions?ccid=cybermonday24) - Cisco Modeling Lab oraz materiały edukacyjne. 40% rabatu na Cyber Monday przez 4h od godziny 17:00, następnie 25%
+* [PracticalNetworking.net](https://classes.pracnet.net/courses/practical-tls) - Szkolenie z protokołu TLS przecenione z 297$ na 50$
+* [Ostinato.org](https://ostinato.org/pricing/) - Generator ruchu sieciowego ze zniżką prawie 300$
 
 
