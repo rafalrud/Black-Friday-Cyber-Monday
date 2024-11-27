@@ -21,5 +21,7 @@ Stwórz [pull request](https://github.com/rafalrud/Black-Friday-Cyber-Monday/pul
 * [Cisco.com](https://learningnetworkstore.cisco.com/promotions?ccid=cybermonday24) - Cisco Modeling Lab oraz materiały edukacyjne. 40% rabatu na Cyber Monday przez 4h od godziny 17:00, następnie 25%
 * [PracticalNetworking.net](https://classes.pracnet.net/courses/practical-tls) - Szkolenie z protokołu TLS przecenione z 297$ na 50$
 * [Ostinato.org](https://ostinato.org/pricing/) - Generator ruchu sieciowego ze zniżką prawie 300$
+* [Ui.com](https://eu.store.ui.com/eu/en/black-friday) - Wyprzedaż produktów, między innymi UniFi Express za 102€ czy 3-pack nanoHD za 306,00 €
+* [ciscopress.com](https://www.ciscopress.com/promotions/happy-booksgiving-buy-1-save-40-or-buy-2-save-55-on-142352) - Kup jedną książkę z rabatem 40% lub 2 z 55% podając przy kasie kod `BOOKSGIVING`.
 
 
