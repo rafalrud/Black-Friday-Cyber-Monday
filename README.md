@@ -23,5 +23,8 @@ Stwórz [pull request](https://github.com/rafalrud/Black-Friday-Cyber-Monday/pul
 * [Ostinato.org](https://ostinato.org/pricing/) - Generator ruchu sieciowego ze zniżką prawie 300$
 * [Ui.com](https://eu.store.ui.com/eu/en/black-friday) - Wyprzedaż produktów, między innymi UniFi Express za 102€ czy 3-pack nanoHD za 306,00 €
 * [ciscopress.com](https://www.ciscopress.com/promotions/happy-booksgiving-buy-1-save-40-or-buy-2-save-55-on-142352) - Kup jedną książkę z rabatem 40% lub 2 z 55% podając przy kasie kod `BOOKSGIVING`.
+* [Parallels](https://www.parallels.com/products/desktop/buy/) - Narzędzie do wirtualizacji dla MacOS, jedyne z oficjalnym wsparciem dla Windows 11 w wersji ARM z rabatem 25%
+*  [Devolutions.net](https://blog.devolutions.net/2024/11/black-friday-save-big-on-remote-desktop-manager-3-days-only/) - Aplikacja do zdalnego pulpitu, roczna subskrypcja z rabatem 25%, maksymalnie 10 subskrypcji RDM
+*  [TeamViewer.com](https://service.teamviewer.com/pl-pl/overview/a?coupon=CMP-PR-BF24#Single) - Aplikacja do zdalnego pulpitu z rabatem 40% w wersji Business lub Team
 
 
