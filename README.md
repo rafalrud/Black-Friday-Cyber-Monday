@@ -21,5 +21,6 @@ Stwórz [pull request](https://github.com/rafalrud/Black-Friday-Cyber-Monday/pul
 * [ciscopress.com](https://www.ciscopress.com/promotions/happy-booksgiving-buy-1-save-40-or-buy-2-save-55-on-142352) - Kup jedną książkę z rabatem 40% lub 2 z 55% podając przy kasie kod `BOOKSGIVING`.
 * [Parallels](https://www.parallels.com/products/desktop/buy/) - Narzędzie do wirtualizacji dla MacOS, jedyne z oficjalnym wsparciem dla Windows 11 w wersji ARM z rabatem 50%
 * [Asdevops](https://asdevops.pl/bf/) - Zniżka na szkolenia oraz dostęp do RootClub
+* [Sekurak.pl](https://blackweek.sekurak.pl/) Zniżki do 80% za dostęp do sekurakAcademy oraz szkoleń i książek
 
 
