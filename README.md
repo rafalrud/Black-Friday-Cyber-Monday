@@ -22,5 +22,6 @@ Stwórz [pull request](https://github.com/rafalrud/Black-Friday-Cyber-Monday/pul
 * [Parallels](https://www.parallels.com/products/desktop/buy/) - Narzędzie do wirtualizacji dla MacOS, jedyne z oficjalnym wsparciem dla Windows 11 w wersji ARM z rabatem 50%
 * [Asdevops](https://asdevops.pl/bf/) - Zniżka na szkolenia oraz dostęp do RootClub
 * [Sekurak.pl](https://blackweek.sekurak.pl/) Zniżki do 80% za dostęp do sekurakAcademy oraz szkoleń i książek
+* [AdminAkademia.pl](https://adminakademia.pl/2025/11/27/rozpoczynamy-black-friday-black-week-w-adminakademia-kursy-do-samodzielnej-realizacji-z-dodatkowym-rabatem-30-do-godz-2359-w-poniedzialek-01-12-2025/) 30% dodatkowej zniżki na wszystkie kursy i cykle w formule do samodzielnej realizacji
 
 
