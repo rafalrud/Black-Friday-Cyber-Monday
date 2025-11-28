@@ -24,5 +24,7 @@ Stwórz [pull request](https://github.com/rafalrud/Black-Friday-Cyber-Monday/pul
 * [Sekurak.pl](https://blackweek.sekurak.pl/) Zniżki do 80% za dostęp do sekurakAcademy oraz szkoleń i książek
 * [AdminAkademia.pl](https://adminakademia.pl/2025/11/27/rozpoczynamy-black-friday-black-week-w-adminakademia-kursy-do-samodzielnej-realizacji-z-dodatkowym-rabatem-30-do-godz-2359-w-poniedzialek-01-12-2025/) 30% dodatkowej zniżki na wszystkie kursy i cykle w formule do samodzielnej realizacji
 * [networkchuck.com](https://academy.networkchuck.com/black-friday) 50% zniżki na kursy
+* [mikr.us](https://mikr.us/panel/?a=bf2025) Zniżki dla obecnych klientów na przedłużenie VPS-ów oraz Cytrusa
+* [Zrozumsieci.pl](https://zrozumsieci.pl/kurs) 200 złotych zniżki na kurs z kodem `bf200` 
 
 
